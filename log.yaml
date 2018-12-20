@@ -1,7 +1,7 @@
 ---
 projects:
   - id: 401daae9-a9ee-4022-b722-a7ee9a810fdd
-    name: scribe
+    name: ledge
     status: InProgress
     started_at: "2018-12-16T12:00:00Z"
   - id: 7f4ddd6f-546b-4551-b41a-3b061278580e
@@ -13,6 +13,11 @@ projects:
     status: InProgress
     started_at: "2014-10-20T12:52:22Z"
 entries:
+  - id: d7e05a7b-d64f-4656-9f2c-facd2d3ceb9d
+    kind: ProjectHeadway
+    project_id: 401daae9-a9ee-4022-b722-a7ee9a810fdd
+    hours_spent: 2.5
+    timestamp: "2018-12-20T04:33:35Z"
   - id: 6f470163-c95a-4ee7-9b62-69c79b11a47d
     kind: ProjectHeadway
     project_id: 8e9038a9-dad2-42c6-afbe-ba1a9a7f468d
