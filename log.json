@@ -5,7 +5,7 @@
       "name": "ledge",
       "description": null,
       "status": "InProgress",
-      "url": null,
+      "url": "https://github.com/maxdeviant/ledge",
       "started_at": "2018-12-16T12:00:00Z"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Hitheryon",
       "description": null,
       "status": "InProgress",
-      "url": null,
+      "url": "https://maxdeviant.itch.io/hitheryon",
       "started_at": "2018-08-25T15:34:27Z"
     },
     {
@@ -21,7 +21,7 @@
       "name": "maxdeviant.com",
       "description": null,
       "status": "InProgress",
-      "url": null,
+      "url": "https://maxdeviant.com",
       "started_at": "2014-10-20T12:52:22Z"
     }
   ],
