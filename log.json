@@ -3,19 +3,25 @@
     {
       "id": "401daae9-a9ee-4022-b722-a7ee9a810fdd",
       "name": "ledge",
+      "description": null,
       "status": "InProgress",
+      "url": null,
       "started_at": "2018-12-16T12:00:00Z"
     },
     {
       "id": "7f4ddd6f-546b-4551-b41a-3b061278580e",
       "name": "Hitheryon",
+      "description": null,
       "status": "InProgress",
+      "url": null,
       "started_at": "2018-08-25T15:34:27Z"
     },
     {
       "id": "8e9038a9-dad2-42c6-afbe-ba1a9a7f468d",
       "name": "maxdeviant.com",
+      "description": null,
       "status": "InProgress",
+      "url": null,
       "started_at": "2014-10-20T12:52:22Z"
     }
   ],
