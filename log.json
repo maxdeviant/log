@@ -77,6 +77,13 @@
       "project_id": "f9f8dd6e-1036-4405-8dce-6c54d47f7fb9",
       "hours_spent": 2.87,
       "timestamp": "2018-12-21T02:18:22.286815929Z"
+    },
+    {
+      "id": "17f28694-415d-4e56-bec0-1ade18982f05",
+      "kind": "ProjectHeadway",
+      "project_id": "f9f8dd6e-1036-4405-8dce-6c54d47f7fb9",
+      "hours_spent": 3.18,
+      "timestamp": "2018-12-21T06:08:19.998601272Z"
     }
   ]
 }
