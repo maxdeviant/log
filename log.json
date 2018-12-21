@@ -25,6 +25,14 @@
       "status": "InProgress",
       "url": "https://maxdeviant.com/",
       "started_at": "2014-10-20T12:52:22Z"
+    },
+    {
+      "id": "f9f8dd6e-1036-4405-8dce-6c54d47f7fb9",
+      "name": "ZOMG",
+      "description": null,
+      "status": "InProgress",
+      "url": null,
+      "started_at": "2018-12-20T23:25:09.196074064Z"
     }
   ],
   "entries": [
@@ -62,6 +70,13 @@
       "project_id": "401daae9-a9ee-4022-b722-a7ee9a810fdd",
       "hours_spent": 2.22,
       "timestamp": "2018-12-20T17:43:06.053480076Z"
+    },
+    {
+      "id": "75996636-3b24-422a-8a19-8515181e1417",
+      "kind": "ProjectHeadway",
+      "project_id": "f9f8dd6e-1036-4405-8dce-6c54d47f7fb9",
+      "hours_spent": 2.87,
+      "timestamp": "2018-12-21T02:18:22.286815929Z"
     }
   ]
 }
